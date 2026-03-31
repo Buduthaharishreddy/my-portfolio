@@ -1,0 +1,56 @@
+Budutha Harish Reddy
+Mobile No: 7416525805
+Email: Hariii1006@gmail.com
+LinkedIn: LinkedIn Profile
+
+EDUCATION
+Vidya Jyothi Institute of Technology, Hyderabad
+B Tech (Bachelor of Technology) Computer Science Engineering in Data Science (CSE-DS)
+Duration: 2024 - 2027
+
+Government Institute of Electronics, Hyderabad
+Diploma in Electronics and Video Engineering (EVE)
+Duration: 2022 - 2024
+
+Bhashyam High School, Hyderabad
+Secondary School Certificate
+Duration: 2020 - 2021
+
+SKILLS
+- Python
+- SQL
+- HTML
+- CSS
+- JavaScript (Basics)
+
+PROJECTS
+1) Automated Resume Generator
+Description: Developed a web-based application to generate ATS-friendly resumes.
+Technologies: HTML, CSS, JavaScript
+Key Features:
+- Designed multiple responsive templates
+- Enabled real-time preview
+- Added PDF export functionality
+
+2) Graduate Admission Prediction Modeling
+Description: Developed a machine learning model to predict graduate admission probability using academic profile data.
+Technologies: Python, Machine Learning, Data Analysis
+Key Features:
+- Built prediction model using GRE, TOEFL, CGPA, and research features
+- Performed data preprocessing and EDA
+- Evaluated with accuracy, F1-score, confusion matrix, and ROC-AUC
+- Achieved around 97.6% accuracy
+
+CERTIFICATIONS
+- Salesforce Developer with Agentblazer Champion Program
+	Organization: SmartBridge (in collaboration with Salesforce and AICTE)
+	Details: Completed an 8-week virtual internship on Salesforce fundamentals, Apex, process automation, Lightning Web Components, and Superbadges.
+
+- GEN AI and Agentic AI
+	Organization: ExcelR EdTech
+	Date: May - June 2025
+	Details: Completed a 30-hour live training on Generative AI and Agentic AI fundamentals.
+
+- Python 101 for Data Science
+	Organization: IBM (Cognitive Class)
+	Details: Completed foundational Python programming for data science, including data handling and basic analysis.
