@@ -281,6 +281,10 @@ a {
   transition: transform 280ms ease, opacity 280ms ease;
 }
 
+.project-actions {
+  margin-top: 0.8rem;
+}
+
 .project-card.hidden {
   opacity: 0;
   transform: scale(0.96);
